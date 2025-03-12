@@ -1,9 +1,18 @@
 # WiFi Router Hardware Hacking Workshop
 
-Please download the VM with preinstalled tools before the workshop: [Download](https://drive.google.com/file/d/1f8QppEx97DJPSMLHEhEW9wl12GjIM2M6/view?usp=sharing)
-Password: `password`
+## 🚀 Welcome to the Hardware Hacking Workshop!  
 
-Alternatively, install the tools mentioned in `installation.md` manually on your machine.
+We're excited to have you on board! To get the most out of the workshop, please **download the preinstalled VM** in advance:  
+
+👉 [**Download the VM**](https://drive.google.com/file/d/1WcyIM28OBHUCk0nLIDafBUVvjXDsxDzH/view?usp=sharing)  
+🔑 The user password is: `password`  
+
+Alternatively, you can manually install the required tools by following the instructions in **`installation.md`** in the [Workshop Repo](https://github.com/code-byter/sdc-router-hacking-workshop).  
+
+If you have any questions or run into issues, feel free to reach out: **hello@code-byter.com**.  
+
+Looking forward to hacking together! 🔧💡  
+
 
 ## Workshop Focus
 
