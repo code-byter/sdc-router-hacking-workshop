@@ -2,7 +2,7 @@
 
 ## 🚀 Welcome to the Hardware Hacking Workshop!  
 
-We're excited to have you on board! To get the most out of the workshop, please **download the preinstalled VM** in advance:  
+We're excited to have you on board! To get the most out of the Hardware Hacking 101: The Stories IoT Devices Tell workshop, please **download the preinstalled VM** in advance:  
 
 👉 [**Download the VM**](https://drive.google.com/file/d/1WcyIM28OBHUCk0nLIDafBUVvjXDsxDzH/view?usp=sharing)  
 🔑 The user password is: `password`  
