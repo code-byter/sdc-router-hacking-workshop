@@ -16,7 +16,7 @@ CS_PIN = 1
 cs = Pin(CS_PIN, Pin.OUT)
 
 # ToDo: polarity and phase values differ on some WiFi Routers
-# polarity can be 0 or 1 depending on the FLash Chip version
+# polarity can be 0 or 1 depending on the Flash Chip version
 spi = SPI(0, baudrate=1000, polarity=0, phase=1, sck=Pin(SPI_SCK), mosi=Pin(SPI_MOSI), miso=Pin(SPI_MISO))
 
 
