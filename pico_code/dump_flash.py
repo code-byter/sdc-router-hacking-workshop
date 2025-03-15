@@ -32,7 +32,6 @@ def read_data(address, length, cmd=READ_DATA):
     select_chip()
     data = bytearray(length)
     spi.write_readinto(bytes([READ_DATA]) + address.to_bytes(3, 'big') + bytes(length-4), data)
-    print(data)
     deselect_chip()
     return data
 
@@ -40,3 +39,4 @@ def read_data(address, length, cmd=READ_DATA):
 address = 0x00d120
 data = read_data(address, 16)
 print("Dumped data:", [hex(x) for x in data])
+print(data)
